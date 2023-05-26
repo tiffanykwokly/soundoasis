@@ -1,0 +1,68 @@
+<!doctype html>
+<meta charset="UTF-8">
+
+<!--work of KWOK LOK YAN-->
+
+<html>
+<head>
+	<title>影音狂熱Sound Oasis</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<header>
+		<div style="text-align: center;">
+			<a href="index.html"><img src="image/banner.png" align="center"></a>
+		</div>
+
+	<table>
+		<tr>
+			<td><a href="index.html">主頁Home</a></td>
+			<td><a href="profile.html">關於我們About Us</a></td>
+			<td><a href="product.html">產品Products</a></td>
+			<td><a href="faq.html">常見問題FAQs</a></td>
+			<td><a href="membership.html">加入會員Membership</a></td>
+			<td><a href="contact.html">聯絡我們Contact Us</a></td>
+		</tr>
+	</table>
+	
+	</header>
+
+
+
+	<h2> 歡迎！在影音狂熱探索您的夢想影音器材。<br>Welcome! Find your ideal audio and video euipments in Sound Oasis. </h2>
+
+	<div class="index_gif">
+		<img src="animation/home.gif">
+	</div>
+
+	<h2>最新優惠Latest Promotion</h2>
+	
+	<div class="index_img">
+		<img src="image/index_product.png">
+	</div>
+	
+	<p>影音狂熱引進了一批全新的產品，涵蓋了電視、音響、投影機等領域，讓您的家庭娛樂體驗更加豐富多彩。
+	<br>
+	其中，電視產品採用最先進的4K技術，具有更高的解析度和更真實的色彩呈現，讓您可以更好地欣賞影視作品。同時，我們的音響產品也經過精心挑選，為您提供最優質的音效體驗。另外，投影機產品則具有更大的屏幕尺寸和更高的亮度，讓您在家中就能享受到影院般的視聽盛宴。
+	<br>
+	立刻查看！
+	<br>
+	<br>
+	Sound Oasis has introduced a new batch of products that cover areas such as televisions, audio equipment, and projectors, making your home entertainment experience more rich and colorful.
+	<br>
+	Among them, television products use the most advanced 4K technology, which has higher resolution and more realistic color rendering, allowing you to better appreciate film and television works. At the same time, our audio products are also carefully selected to provide you with the best sound experience. In addition, the projector products have larger screen sizes and higher brightness, allowing you to enjoy a cinema-like audiovisual feast at home.
+	<br>
+	Check it out now!
+	<br>
+	</p>
+
+</body>
+
+<footer>
+  	<div class="footer">
+    	<p>&copy; 2023 Sound Oasis. All rights reserved.</p>
+  	</div>
+</footer>
+
+</html>
